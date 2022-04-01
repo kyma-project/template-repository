@@ -23,3 +23,12 @@ aliases:
     - majakurcius
     - NHingerl
     - grego952
+  ci-reviewers:
+    - Ressetkk
+    - Halamix2
+    - dekiel
+    - kasiakepka
+  ci-approvers:
+    - Ressetkk
+    - Halamix2
+    - dekiel
