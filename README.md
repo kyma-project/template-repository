@@ -1,4 +1,4 @@
-> **NOTE:** It is a general template that can be used for a project README.md, example README.md, or any other README.md type in all Kyma repositories in the Kyma organization. Not all the sections are mandatory. Use only those that suit your use case but keep the proposed section order.
+> **NOTE:** It is a general template that can be used for a project README.md, example README.md, or any other README.md type in all Kyma repositories in the Kyma organization. The `Overview`, `Contributing`, `Code of Conduct` and `Licensing` sections are mandatory. The `Prerequisites` section is mandatory if there are any requirements regarding hard- or software. All other sections are optional. Use only those that suit your use case but keep the proposed section order. Leave the `Contributing`, `Code of Conduct` and `Licensing` sections like they are.
 
 # {Project Title} (mandatory)
 
@@ -37,3 +37,15 @@
 > - **Symptom**
 > - **Cause**
 > - **Remedy**
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+## Licensing
+
+See the [License file](./LICENSE)
