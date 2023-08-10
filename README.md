@@ -8,10 +8,11 @@
 > - `Licensing` - do not change this!
 
 # {Project Title}
-<!--- mandatory section --->
+<!--- mandatory --->
 > Modify the title and insert the name of your project. Use Heading 1 (H1).
 
-## Overview (mandatory)
+## Overview
+<!--- mandatory section --->
 
 > Provide a description of the project's functionality.
 >
