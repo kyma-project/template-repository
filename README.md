@@ -1,10 +1,18 @@
-> **NOTE:** It is a general template that can be used for a project README.md, example README.md, or any other README.md type in all Kyma repositories in the Kyma organization. Not all the sections are mandatory. Use only those that suit your use case but keep the proposed section order.
+> **NOTE:** This is a general template that can be used for a project README.md, example README.md, or any other README.md type in all Kyma repositories in the Kyma organization. Except for the mandatory sections, use only those sections that suit your use case but keep the proposed section order.
+>
+> Mandatory sections: 
+> - `Overview`
+> - `Prerequisites`, if there are any requirements regarding hard- or software
+> - `Contributing` - do not change this!
+> - `Code of Conduct` - do not change this!
+> - `Licensing` - do not change this!
 
-# {Project Title} (mandatory)
-
+# {Project Title}
+<!--- mandatory --->
 > Modify the title and insert the name of your project. Use Heading 1 (H1).
 
-## Overview (mandatory)
+## Overview
+<!--- mandatory section --->
 
 > Provide a description of the project's functionality.
 >
@@ -37,3 +45,18 @@
 > - **Symptom**
 > - **Cause**
 > - **Remedy**
+
+## Contributing
+<!--- mandatory section - do not change this! --->
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Code of Conduct
+<!--- mandatory section - do not change this! --->
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+## Licensing
+<!--- mandatory section - do not change this! --->
+
+See the [LICENSE file](./LICENSE)
