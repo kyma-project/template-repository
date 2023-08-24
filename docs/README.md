@@ -2,6 +2,9 @@
 
 ## Overview
 
-This folder contains documents that relate to the project.
+The docs folder contains two subfolders - `user` and `contributor`. 
+The `user` subfolder contains the end-user documentation, including any overview, usage or troubleshooting documents. The content of this folder is displayed on [our website](https://kyma-project.io/#/)
 
-> In this document, provide the list of all documents that this folder contains, together with links to those documents and short information on what they describe.
+The `contributor` subfolder includes any developer-related documentation that can help in improving the given module's usage.
+
+All documents must be properly numbered according to the structure proposed in [this decision record](https://github.tools.sap/kyma/community/issues/180).
