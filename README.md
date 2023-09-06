@@ -1,9 +1,9 @@
-> **NOTE:** This is a general template that can be used for a project README.md, example README.md, or any other README.md type in all Kyma repositories in the Kyma organization. Except for the mandatory sections, use only those sections that suit your use case but keep the proposed section order.
+> **NOTE:** This is a general template that can be used for a project README.md. Except for the mandatory sections, use only those sections that suit your use case but keep the proposed section order.
 >
 > Mandatory sections: 
 > - `Overview`
 > - `Prerequisites`, if there are any requirements regarding hard- or software
-> - `Contributing` - do not change this!
+> - `Contributing` - do not change this! -
 > - `Code of Conduct` - do not change this!
 > - `Licensing` - do not change this!
 
@@ -37,14 +37,6 @@
 ## Development
 
 > Add instructions on how to develop the project or example. It must be clear what to do and, for example, how to trigger the tests so that other contributors know how to make their pull requests acceptable. Include the instructions or provide links to related documentation.
-
-## Troubleshooting
-
-> List potential issues and provide tips on how to avoid or solve them. To structure the content, use the following sections:
->
-> - **Symptom**
-> - **Cause**
-> - **Remedy**
 
 ## Contributing
 <!--- mandatory section - do not change this! --->
