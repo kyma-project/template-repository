@@ -1,4 +1,4 @@
-> **TIP:** Apart from the {Module Name} heading, you can use your own titles for the remaining sections. You can also add your own sections as you need to for your module.
+> **TIP:** Apart from the {Module Name} heading, you can use your own titles for the remaining sections. You can also add more module-specific sections.
 
 # {Module Name}
 > Modify the title and insert the name of your module. Use Heading 1 (H1).
