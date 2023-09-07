@@ -1,0 +1,1 @@
+Use this file to add any documents you want to display on the website. For more information, visit the [User documentation](https://github.com/kyma-project/community/blob/main/docs/guidelines/content-guidelines/01-user-docs.md) guide.
