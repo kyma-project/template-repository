@@ -2,11 +2,11 @@
 name: Decision record
 about: Decision record
 ---
-<!-- Follow the decision making process (https://kyma-project.io/community/governance) -->
+<!-- Follow the decision-making process (https://kyma-project.io/community/governance) -->
 
 Created on {YYYY-MM-DD} by {name and surname (@Github username)}.
 
-## Decision Log
+## Decision log
 
 | Name | Description |
 |-----------------------|------------------------------------------------------------------------------------|
