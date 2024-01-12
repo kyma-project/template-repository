@@ -42,14 +42,14 @@
 ## Contributing
 <!--- mandatory section - do not change this! --->
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See the [Contributing Rules](CONTRIBUTING.md).
 
 ## Code of Conduct
 <!--- mandatory section - do not change this! --->
 
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+See the [Code of Conduct](CODE_OF_CONDUCT.md) document.
 
 ## Licensing
 <!--- mandatory section - do not change this! --->
 
-See the [LICENSE file](./LICENSE).
+See the [license](./LICENSE) file.
