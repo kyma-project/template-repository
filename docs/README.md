@@ -8,7 +8,7 @@ The `user` subfolder contains the end-user documentation, which is displayed on 
 
 The `contributor` subfolder includes any developer-related documentation to help them manually install, develop, and operate a module.
 
-[^*]: The `operator` subfolder is mandatory only if your module/component is delivered to restricted markets. The subfolder includes documentation relevant to the respective operators.
+The `operator` subfolder is mandatory only if your module/component is delivered to restricted markets. The subfolder includes documentation relevant to the respective operators.
 
 To have a common structure across all modules, all documents must be properly numbered according to the following structure:
 
@@ -40,3 +40,5 @@ where `xx` is the number of the given document. For example:
 If you have other content that does not fit into the above topics, create your own 04-10-module-specific document(s).
 
 You can divide your documentation into subfolders to avoid having too many documents in one `docs/user` or `docs/contributor` folder. For example, if you have many technical reference documents, you can create a `technical reference` subfolder in `docs/user` and keep relevant documentation there. Each subfolder in the `user` folder must have its own `_sidebar.md` file with the links to the main module page and the list of docs it contains.
+
+[^*]: Only in documentation for restricted markets.
