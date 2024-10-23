@@ -2,13 +2,13 @@
 
 ## Overview
 
-The `docs` folder contains three subfolders - `user`, `contributor`, and `operator`[^*].
+The `docs` folder contains three subfolders - `user`, `contributor`, and `operator`[^1].
 
 The `user` subfolder contains the end-user documentation, which is displayed on the [Kyma website](https://kyma-project.io/#/) and in the SAP Help Portal. Depending on your module needs, the subfolder must include overview, usage, or technical reference documents. To display the content on the website properly, create a `_sidebar.md` file in the `user` subfolder and list the documents it contains there. For more information on how to publish user documentation, follow [this guide](https://github.com/kyma-project/community/blob/main/docs/guidelines/content-guidelines/01-user-docs.md).
 
 The `contributor` subfolder includes any developer-related documentation to help them manually install, develop, and operate a module.
 
-[^*] The `operator`* subfolder is mandatory only if your module/component is delivered to restricted markets. The subfolder includes documentation relevant to the respective operators.
+[^1] The `operator`* subfolder is mandatory only if your module/component is delivered to restricted markets. The subfolder includes documentation relevant to the respective operators.
 
 To have a common structure across all modules, all documents must be properly numbered according to the following structure:
 
