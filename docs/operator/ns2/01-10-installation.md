@@ -10,6 +10,6 @@
 
 ## Post-Installation Steps
 
-<!--Describe any post-installation steps that you might need, including the initial setup of your monitors. Setting up monitors should also be part of your operations topic. However, please include this information here as well (ideally you can create referable content).-->
+<!--Describe any post-installation steps that you might need, including the initial setup of your monitors. Setting up monitors should also be part of your operations topic. However, please include this information here as well.-->
 
-<!--For more information, see [Documentation Guidelines for Operator Documentation](https://wiki.one.int.sap/wiki/display/NDW/Documentation+Guidelines+for+Operator+Documentation)-->
+<!--For more information, see [Documentation Guidelines for Operator Documentation](https://wiki.one.int.sap/wiki/display/NDW/Documentation+Guidelines+for+Operator+Documentation#DocumentationGuidelinesforOperatorDocumentation-InstallationandUpdate)-->

@@ -1,1 +1,1 @@
-This folder is mandatory only if your module/component is delivered to restricted markets.It includes documentation relevant for the respective operators.
+This folder is mandatory only if your module/component is delivered to restricted markets.It includes documentation relevant to the respective operators.
