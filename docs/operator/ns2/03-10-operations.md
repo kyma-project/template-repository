@@ -17,6 +17,16 @@ In this section, describe:
 - The component's CRs and their purpose
 - CRs' backup requirements (Is it regenerated or does it require backup?)
 - CRs' mechanics
-- CRs' labels and annotations -->
+- CRs' labels and annotations 
+
+## Metrics
+
+In this section describe:
+- What metrics endpoints does the component use? What is the metrics format? (Prometheus is expected)
+- What metrics are presented on each endpoint? Describe all the metrics and what they represent.
+- Provide the recommended way to determine warnings and identify critical values in metrics.
+
+Consider describing some recommendations regarding conditions and thresholds for triggering alerts.
+-->
 
 <!--For more information, see [Documentation Guidelines for Operator Documentation](https://wiki.one.int.sap/wiki/display/NDW/Documentation+Guidelines+for+Operator+Documentation#DocumentationGuidelinesforOperatorDocumentation-OperationsDocumentation)-->
