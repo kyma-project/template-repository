@@ -3,6 +3,11 @@
 <!--Please create only one single document with multiple sections for your Operations documentation. Our goal is to display all Operations content for a service on a single page so that the operators can quickly search for information using the search function.-->
 
 <!--Recommended sections:
+## Configuration
+
+Desribe Helm charts parameters and configuration values used during installation. 
+
+Provide details on  any injected configuration that the component expects. For example, ConfigMaps and/or Secrets.
 
 ## REST API {if applicable}
 

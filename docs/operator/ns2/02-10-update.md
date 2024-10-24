@@ -1,8 +1,17 @@
 # Updating {Component Name}
 
-# Prerequisites
+## Prerequisites
 
 <!--Describe the prerequisites for updating your service (if there are some).-->
+
+## What's Changed {OPTIONAL}
+
+<!--In this optional section, describe significat changes since the last minor or major release. For example:
+- Operation changes
+- New functionalities
+- Deprecated functionalities
+- Configuration changes
+- Updating pitfalls-->
 
 ## Procedure
 
