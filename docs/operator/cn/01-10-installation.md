@@ -2,7 +2,9 @@
 
 ## Prerequisites
 
-<!--Describe the prerequisites for installing your service (if there are some).-->
+<!--Describe the prerequisites for installing your service (if there are some). For example:
+- List the components that your component depends on
+- List the BTP integrations used by your component-->
 
 ## Procedure
 
