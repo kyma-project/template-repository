@@ -16,6 +16,7 @@ Provide details on  any injected configuration that the component expects. For e
 In this section, describe:
 - The component's CRs and their purpose
 - CRs' backup requirements (Is it regenerated or does it require backup?)
+- CRs' restoration order
 - CRs' mechanics
 - CRs' labels and annotations 
 
