@@ -23,7 +23,7 @@ a particular SAP External Product, then you may only make use of any API Calls
 in this project for that SAP External Product for your internal, non-productive
 and non-commercial test and evaluation of such API Calls. Nothing herein grants
 you any rights to use or access any SAP External Product, or provide any third
-parties the right to use of access any SAP External Product, through API Calls."
+parties the right to use of access any SAP External Product, through API Calls.
 """
 
 [[annotations]]
