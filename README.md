@@ -1,12 +1,14 @@
 > **NOTE:** This is a general template that you can use for a project README.md. Except for the mandatory sections, use only those sections that suit your use case but keep the proposed section order.
 >
-> Mandatory sections: 
+> Mandatory sections:
 > - `Overview`
 > - `Prerequisites`, if there are any requirements regarding hard- or software
 > - `Installation`
 > - `Contributing` - do not change this!
 > - `Code of Conduct` - do not change this!
 > - `Licensing` - do not change this!
+
+> For guielines on style and terminology, formatting, diagrams, and more, see the [content guidelines](https://github.com/kyma-project/community/tree/main/docs/guidelines/content-guidelines).
 
 # {Project Title}
 <!--- mandatory --->
